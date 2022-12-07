@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kokhoor
 - 👀 I’m interested in javascript, python, java
-- 🌱 I’m currently learning Java Nashorn to embed javascript to java
+- 🌱 I’m currently trying to leverage on GraalVM to upgrade our javascript engine embedded in Java
+- 🌱 I manage application deployment using Kubernetes and am looking at how to make things neat and easy to maintain.
 - 💞️ I’m looking to collaborate on a framework for scripting which can be extended via modules
 - 📫 How to reach me kokhoor@gmail.com
 
